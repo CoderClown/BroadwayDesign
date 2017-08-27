@@ -49,3 +49,39 @@ h3 {
 .details {
 	font-size: 
 }
+
+.footer {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url("../images/the-flatiron-building.png")
+}
+
+.copyright {
+	font-size: 11px;
+	text-align: left;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+li {
+	display: inline;
+
+}
+
+.footerbar {
+	background-color: dimgray;
+	width: 100%;
+	text-align: left;
+	color: white;
+}
+
+.left {
+	display: inline-block;
+}
+
+.footermenu {
+	text-align: left;
+}
